@@ -1,5 +1,5 @@
 deployment:
   replicas: 4
-  imageVersion: 1.31.3-alpine
+  imageVersion: 1.31.6-alpine
 service:
   type: ClusterIP

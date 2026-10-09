@@ -1,5 +1,5 @@
 apiVersion: v2
 name: nginx
 version: 0.1.3
-description: upgrading to 1.31.3-alpine
-appVersion: 1.31.3-alpine # application version
+description: upgrading to 1.31.6-alpine
+appVersion: 1.31.6-alpine # application version
